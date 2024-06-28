@@ -1,0 +1,151 @@
+Policy Number,Customer ID,Customer Name,Mobile Number,Email Id,Age,Gender,Marital Status,Dependents,Location,Occupation,Claims (3yrs),Claim Type,Online Activity,Service Calls,Current Insurance,Coverage,Renewal,Premium (3yrs),Fraudulent
+PN1000,CUST1000,ABC,9876367890,abc@gmail.com,39,Female,Divorced,3,City A,Doctor,1,Fire,Medium,4,Life,Full,No,1033,1
+PN1001,CUST1001,ABC,9876367890,abc@gmail.com,36,Female,Single,1,City B,Artist,3,Accident,Medium,7,Vision,Partial,Yes,876,0
+PN1002,CUST1002,ABC,9876367890,abc@gmail.com,30,Male,Single,2,City D,Teacher,1,None,Medium,0,Dental,Partial,No,1900,1
+PN1003,CUST1003,ABC,9876367890,abc@gmail.com,31,Male,Single,0,City C,Doctor,0,Fire,High,4,None,Full,Yes,1154,1
+PN1004,CUST1004,ABC,9876367890,abc@gmail.com,28,Female,Married,3,City B,Lawyer,2,Fire,High,5,Critical illness,Partial,No,969,1
+PN1005,CUST1005,ABC,9876367890,abc@gmail.com,39,Female,Single,4,City A,Artist,2,Theft,Low,8,Dental,Full,No,1936,0
+PN1006,CUST1006,ABC,9876367890,abc@gmail.com,58,Male,Divorced,1,City D,Doctor,1,None,Medium,3,Vision,Partial,No,1221,1
+PN1007,CUST1007,ABC,9876367890,abc@gmail.com,49,Female,Divorced,3,City D,Lawyer,0,Theft,Medium,4,Annuities,Partial,Yes,1724,0
+PN1008,CUST1008,ABC,9876367890,abc@gmail.com,45,Female,Single,4,City B,Teacher,3,Theft,Low,0,Hospital indemnity,Full,Yes,1167,0
+PN1009,CUST1009,ABC,9876367890,abc@gmail.com,41,Male,Divorced,2,City A,Artist,0,Theft,High,8,Investments,Full,No,1408,0
+PN1010,CUST1010,ABC,9876367890,abc@gmail.com,39,Male,Divorced,2,City A,Doctor,1,Fire,Medium,4,Life,Full,No,1033,0
+PN1011,CUST1011,ABC,9876367890,abc@gmail.com,36,Female,Single,2,City B,Doctor,3,Accident,Medium,7,Disability,Partial,Yes,876,1
+PN1012,CUST1012,ABC,9876367890,abc@gmail.com,30,Female,Single,2,City D,Artist,1,None,Medium,0,Annuities,Partial,No,1900,1
+PN1013,CUST1013,ABC,9876367890,abc@gmail.com,31,Male,Single,2,City C,Teacher,0,Fire,High,4,Critical illness,Full,Yes,1154,1
+PN1014,CUST1014,ABC,9876367890,abc@gmail.com,28,Male,Married,2,City B,Doctor,2,Fire,High,5,Hospital indemnity,Partial,No,969,0
+PN1015,CUST1015,ABC,9876367890,abc@gmail.com,39,Female,Single,2,City A,Lawyer,2,Theft,Low,8,Dental,Full,No,1936,0
+PN1016,CUST1016,ABC,9876367890,abc@gmail.com,58,Female,Divorced,2,City D,Artist,1,None,Medium,3,Annuities,Partial,No,1221,1
+PN1017,CUST1017,ABC,9876367890,abc@gmail.com,49,Male,Divorced,2,City D,Doctor,0,Theft,Medium,4,Life,Partial,Yes,1724,0
+PN1018,CUST1018,ABC,9876367890,abc@gmail.com,45,Female,Single,2,City B,Lawyer,3,Theft,Low,0,Vision,Full,Yes,1167,1
+PN1019,CUST1019,ABC,9876367890,abc@gmail.com,41,Female,Divorced,2,City A,Teacher,0,Theft,High,8,Annuities,Full,No,1408,0
+PN1020,CUST1020,ABC,9876367890,abc@gmail.com,39,Male,Divorced,2,City A,Artist,1,Fire,Medium,4,Critical illness,Full,No,1033,1
+PN1021,CUST1021,ABC,9876367890,abc@gmail.com,36,Male,Single,2,City B,Doctor,3,Accident,Medium,7,Disability,Partial,Yes,876,0
+PN1022,CUST1022,ABC,9876367890,abc@gmail.com,30,Female,Single,2,City D,Doctor,1,None,Medium,0,Life,Partial,No,1900,1
+PN1023,CUST1023,ABC,9876367890,abc@gmail.com,31,Female,Single,2,City C,Artist,0,Fire,High,4,Hospital indemnity,Full,Yes,1154,0
+PN1024,CUST1024,ABC,9876367890,abc@gmail.com,28,Male,Married,2,City B,Teacher,2,Fire,High,5,Dental,Partial,No,969,1
+PN1025,CUST1025,ABC,9876367890,abc@gmail.com,39,Male,Single,2,City A,Doctor,2,Theft,Low,8,Life,Full,No,1936,0
+PN1026,CUST1026,ABC,9876367890,abc@gmail.com,31,Female,Divorced,3,City A,Doctor,1,Fire,Medium,4,Life,Full,No,1033,0
+PN1027,CUST1027,ABC,9876367890,abc@gmail.com,28,Female,Single,1,City B,Artist,3,Accident,Medium,7,Vision,Partial,Yes,876,0
+PN1028,CUST1028,ABC,9876367890,abc@gmail.com,39,Male,Single,2,City D,Teacher,1,None,Medium,0,Dental,Partial,No,1900,0
+PN1029,CUST1029,ABC,9876367890,abc@gmail.com,31,Male,Single,0,City C,Doctor,0,Fire,High,4,None,Full,Yes,1154,0
+PN1030,CUST1030,ABC,9876367890,abc@gmail.com,28,Female,Married,3,City B,Lawyer,2,Fire,High,5,Critical illness,Partial,No,969,0
+PN1031,CUST1031,ABC,9876367890,abc@gmail.com,39,Female,Single,4,City A,Artist,2,Theft,Low,8,Dental,Full,No,1936,1
+PN1032,CUST1032,ABC,9876367890,abc@gmail.com,31,Male,Divorced,1,City D,Doctor,1,None,Medium,3,Vision,Partial,No,1221,1
+PN1033,CUST1033,ABC,9876367890,abc@gmail.com,28,Female,Divorced,3,City D,Lawyer,0,Theft,Medium,4,Annuities,Partial,Yes,1724,1
+PN1034,CUST1034,ABC,9876367890,abc@gmail.com,39,Female,Single,4,City B,Teacher,3,Theft,Low,0,Hospital indemnity,Full,Yes,1167,1
+PN1035,CUST1035,ABC,9876367890,abc@gmail.com,31,Male,Divorced,2,City A,Artist,0,Theft,High,8,Investments,Full,No,1408,1
+PN1036,CUST1036,ABC,9876367890,abc@gmail.com,28,Male,Divorced,2,City A,Doctor,1,Fire,Medium,4,Life,Full,No,1033,1
+PN1037,CUST1037,ABC,9876367890,abc@gmail.com,39,Female,Single,2,City B,Doctor,3,Accident,Medium,7,Disability,Partial,Yes,876,0
+PN1038,CUST1038,ABC,9876367890,abc@gmail.com,31,Female,Single,2,City D,Artist,1,None,Medium,0,Annuities,Partial,No,1900,0
+PN1039,CUST1039,ABC,9876367890,abc@gmail.com,28,Male,Single,2,City C,Teacher,0,Fire,High,4,Critical illness,Full,Yes,1154,1
+PN1040,CUST1040,ABC,9876367890,abc@gmail.com,39,Male,Married,2,City B,Doctor,2,Fire,High,5,Hospital indemnity,Partial,No,969,0
+PN1041,CUST1041,ABC,9876367890,abc@gmail.com,31,Female,Single,2,City A,Lawyer,2,Theft,Low,8,Dental,Full,No,1936,1
+PN1042,CUST1042,ABC,9876367890,abc@gmail.com,28,Female,Divorced,2,City D,Artist,1,None,Medium,3,Annuities,Partial,No,1221,1
+PN1043,CUST1043,ABC,9876367890,abc@gmail.com,39,Male,Divorced,2,City D,Doctor,0,Theft,Medium,4,Life,Partial,Yes,1724,0
+PN1044,CUST1044,ABC,9876367890,abc@gmail.com,31,Female,Single,2,City B,Lawyer,3,Theft,Low,0,Vision,Full,Yes,1167,1
+PN1045,CUST1045,ABC,9876367890,abc@gmail.com,28,Female,Divorced,2,City A,Teacher,0,Theft,High,8,Annuities,Full,No,1408,1
+PN1046,CUST1046,ABC,9876367890,abc@gmail.com,39,Male,Divorced,2,City A,Artist,1,Fire,Medium,4,Critical illness,Full,No,1033,1
+PN1047,CUST1047,ABC,9876367890,abc@gmail.com,31,Male,Single,2,City B,Doctor,3,Accident,Medium,7,Disability,Partial,Yes,876,0
+PN1048,CUST1048,ABC,9876367890,abc@gmail.com,28,Female,Single,2,City D,Doctor,1,None,Medium,0,Life,Partial,No,1900,1
+PN1049,CUST1049,ABC,9876367890,abc@gmail.com,39,Female,Single,2,City C,Artist,0,Fire,High,4,Hospital indemnity,Full,Yes,1154,0
+PN1050,CUST1050,ABC,9876367890,abc@gmail.com,31,Male,Married,2,City B,Teacher,2,Fire,High,5,Dental,Partial,No,969,0
+PN1051,CUST1051,ABC,9876367890,abc@gmail.com,28,Male,Single,2,City A,Doctor,2,Theft,Low,8,Life,Full,No,1936,1
+PN1052,CUST1052,ABC,9876367890,abc@gmail.com,39,Female,Divorced,3,City A,Doctor,1,Fire,Medium,4,Life,Full,No,1033,1
+PN1053,CUST1053,ABC,9876367890,abc@gmail.com,31,Female,Single,1,City B,Artist,3,Accident,Medium,7,Vision,Partial,Yes,876,1
+PN1054,CUST1054,ABC,9876367890,abc@gmail.com,28,Male,Single,2,City D,Teacher,1,None,Medium,0,Dental,Partial,No,1900,1
+PN1055,CUST1055,ABC,9876367890,abc@gmail.com,39,Male,Single,0,City C,Doctor,0,Fire,High,4,None,Full,Yes,1154,0
+PN1056,CUST1056,ABC,9876367890,abc@gmail.com,39,Female,Married,3,City B,Lawyer,2,Fire,High,5,Critical illness,Partial,No,969,0
+PN1057,CUST1057,ABC,9876367890,abc@gmail.com,31,Female,Single,4,City A,Artist,2,Theft,Low,8,Dental,Full,No,1936,1
+PN1058,CUST1058,ABC,9876367890,abc@gmail.com,28,Male,Divorced,1,City D,Doctor,1,None,Medium,3,Vision,Partial,No,1221,0
+PN1059,CUST1059,ABC,9876367890,abc@gmail.com,39,Female,Divorced,3,City D,Lawyer,0,Theft,Medium,4,Annuities,Partial,Yes,1724,1
+PN1060,CUST1060,ABC,9876367890,abc@gmail.com,31,Female,Single,4,City B,Teacher,3,Theft,Low,0,Hospital indemnity,Full,Yes,1167,0
+PN1061,CUST1061,ABC,9876367890,abc@gmail.com,28,Male,Divorced,2,City A,Artist,0,Theft,High,8,Investments,Full,No,1408,1
+PN1062,CUST1062,ABC,9876367890,abc@gmail.com,39,Male,Divorced,2,City A,Doctor,1,Fire,Medium,4,Life,Full,No,1033,0
+PN1063,CUST1063,ABC,9876367890,abc@gmail.com,39,Female,Single,2,City B,Doctor,3,Accident,Medium,7,Disability,Partial,Yes,876,1
+PN1064,CUST1064,ABC,9876367890,abc@gmail.com,31,Female,Single,2,City D,Artist,1,None,Medium,0,Annuities,Partial,No,1900,0
+PN1065,CUST1065,ABC,9876367890,abc@gmail.com,28,Male,Single,2,City C,Teacher,0,Fire,High,4,Critical illness,Full,Yes,1154,0
+PN1066,CUST1066,ABC,9876367890,abc@gmail.com,39,Male,Married,2,City B,Doctor,2,Fire,High,5,Hospital indemnity,Partial,No,969,0
+PN1067,CUST1067,ABC,9876367890,abc@gmail.com,31,Female,Single,2,City A,Lawyer,2,Theft,Low,8,Dental,Full,No,1936,0
+PN1068,CUST1068,ABC,9876367890,abc@gmail.com,28,Female,Divorced,2,City D,Artist,1,None,Medium,3,Annuities,Partial,No,1221,0
+PN1069,CUST1069,ABC,9876367890,abc@gmail.com,39,Male,Divorced,2,City D,Doctor,0,Theft,Medium,4,Life,Partial,Yes,1724,0
+PN1070,CUST1070,ABC,9876367890,abc@gmail.com,39,Female,Single,2,City B,Lawyer,3,Theft,Low,0,Vision,Full,Yes,1167,0
+PN1071,CUST1071,ABC,9876367890,abc@gmail.com,31,Female,Divorced,2,City A,Teacher,0,Theft,High,8,Annuities,Full,No,1408,0
+PN1072,CUST1072,ABC,9876367890,abc@gmail.com,28,Male,Divorced,2,City A,Artist,1,Fire,Medium,4,Critical illness,Full,No,1033,1
+PN1073,CUST1073,ABC,9876367890,abc@gmail.com,39,Male,Single,2,City B,Doctor,3,Accident,Medium,7,Disability,Partial,Yes,876,1
+PN1074,CUST1074,ABC,9876367890,abc@gmail.com,31,Female,Single,2,City D,Doctor,1,None,Medium,0,Life,Partial,No,1900,1
+PN1075,CUST1075,ABC,9876367890,abc@gmail.com,28,Female,Single,2,City C,Artist,0,Fire,High,4,Hospital indemnity,Full,Yes,1154,1
+PN1076,CUST1076,ABC,9876367890,abc@gmail.com,39,Male,Married,2,City B,Teacher,2,Fire,High,5,Dental,Partial,No,969,1
+PN1077,CUST1077,ABC,9876367890,abc@gmail.com,39,Male,Single,2,City A,Doctor,2,Theft,Low,8,Life,Full,No,1936,1
+PN1078,CUST1078,ABC,9876367890,abc@gmail.com,31,Female,Divorced,3,City A,Doctor,1,Fire,Medium,4,Life,Full,No,1033,1
+PN1079,CUST1079,ABC,9876367890,abc@gmail.com,28,Female,Single,1,City B,Artist,3,Accident,Medium,7,Vision,Partial,Yes,876,1
+PN1080,CUST1080,ABC,9876367890,abc@gmail.com,39,Male,Single,2,City D,Teacher,1,None,Medium,0,Dental,Partial,No,1900,1
+PN1081,CUST1081,ABC,9876367890,abc@gmail.com,31,Male,Single,0,City C,Doctor,0,Fire,High,4,None,Full,Yes,1154,1
+PN1082,CUST1082,ABC,9876367890,abc@gmail.com,28,Female,Married,3,City B,Lawyer,2,Fire,High,5,Critical illness,Partial,No,969,1
+PN1083,CUST1083,ABC,9876367890,abc@gmail.com,39,Female,Single,4,City A,Artist,2,Theft,Low,8,Dental,Full,No,1936,1
+PN1084,CUST1084,ABC,9876367890,abc@gmail.com,39,Male,Divorced,1,City D,Doctor,1,None,Medium,3,Vision,Partial,No,1221,1
+PN1085,CUST1085,ABC,9876367890,abc@gmail.com,31,Female,Divorced,3,City D,Lawyer,0,Theft,Medium,4,Annuities,Partial,Yes,1724,1
+PN1086,CUST1086,ABC,9876367890,abc@gmail.com,28,Female,Single,4,City B,Teacher,3,Theft,Low,0,Hospital indemnity,Full,Yes,1167,1
+PN1087,CUST1087,ABC,9876367890,abc@gmail.com,39,Male,Divorced,2,City A,Artist,0,Theft,High,8,Investments,Full,No,1408,0
+PN1088,CUST1088,ABC,9876367890,abc@gmail.com,31,Male,Divorced,2,City A,Doctor,1,Fire,Medium,4,Life,Full,No,1033,0
+PN1089,CUST1089,ABC,9876367890,abc@gmail.com,28,Female,Single,2,City B,Doctor,3,Accident,Medium,7,Disability,Partial,Yes,876,0
+PN1090,CUST1090,ABC,9876367890,abc@gmail.com,39,Female,Single,2,City D,Artist,1,None,Medium,0,Annuities,Partial,No,1900,1
+PN1091,CUST1091,ABC,9876367890,abc@gmail.com,39,Male,Single,2,City C,Teacher,0,Fire,High,4,Critical illness,Full,Yes,1154,0
+PN1092,CUST1092,ABC,9876367890,abc@gmail.com,31,Male,Married,2,City B,Doctor,2,Fire,High,5,Hospital indemnity,Partial,No,969,0
+PN1093,CUST1093,ABC,9876367890,abc@gmail.com,28,Female,Single,2,City A,Lawyer,2,Theft,Low,8,Dental,Full,No,1936,0
+PN1094,CUST1094,ABC,9876367890,abc@gmail.com,39,Female,Divorced,2,City D,Artist,1,None,Medium,3,Annuities,Partial,No,1221,1
+PN1095,CUST1095,ABC,9876367890,abc@gmail.com,31,Male,Divorced,2,City D,Doctor,0,Theft,Medium,4,Life,Partial,Yes,1724,0
+PN1096,CUST1096,ABC,9876367890,abc@gmail.com,28,Female,Single,2,City B,Lawyer,3,Theft,Low,0,Vision,Full,Yes,1167,0
+PN1097,CUST1097,ABC,9876367890,abc@gmail.com,39,Female,Divorced,2,City A,Teacher,0,Theft,High,8,Annuities,Full,No,1408,0
+PN1098,CUST1098,ABC,9876367890,abc@gmail.com,49,Male,Divorced,2,City A,Artist,1,Fire,Medium,4,Critical illness,Full,No,1033,0
+PN1099,CUST1099,ABC,9876367890,abc@gmail.com,31,Male,Single,2,City B,Doctor,3,Accident,Medium,7,Disability,Partial,Yes,876,0
+PN1100,CUST1100,ABC,9876367890,abc@gmail.com,34,Female,Single,2,City D,Doctor,1,None,Medium,0,Life,Partial,No,1900,1
+,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,1
+,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,1
+,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,1
+,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,1
+,,,,,,,,,,,,,,,,,,,1
+,,,,,,,,,,,,,,,,,,,1
+,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,1
+,,,,,,,,,,,,,,,,,,,1
+,,,,,,,,,,,,,,,,,,,1
+,,,,,,,,,,,,,,,,,,,1
+,,,,,,,,,,,,,,,,,,,1
+,,,,,,,,,,,,,,,,,,,1
+,,,,,,,,,,,,,,,,,,,1
+,,,,,,,,,,,,,,,,,,,1
+,,,,,,,,,,,,,,,,,,,1
+,,,,,,,,,,,,,,,,,,,1
+,,,,,,,,,,,,,,,,,,,1
+,,,,,,,,,,,,,,,,,,,1
+,,,,,,,,,,,,,,,,,,,1
+,,,,,,,,,,,,,,,,,,,1
+,,,,,,,,,,,,,,,,,,,1
+,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,1
+,,,,,,,,,,,,,,,,,,,1
+,,,,,,,,,,,,,,,,,,,1
+,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,1
+,,,,,,,,,,,,,,,,,,,1
+,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,1
+,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,1
+,,,,,,,,,,,,,,,,,,,0
